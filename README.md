@@ -30,15 +30,17 @@ A simple and beginner-friendly **console-based To-Do list application** written 
 4. Run the app using:
 
 ```bash
-python todo.py
+python todo.py 
+```
 
+---
 
-🧪 Sample Menu
+##  🧪 Sample Menu
 
 1) View tasks
 2) Add task
 3) Remove task
 4) Exit
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Parth Pandurang Wazurkar
