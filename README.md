@@ -1,4 +1,4 @@
-# todo-app-python
+# todo-list-app-python
 A simple and beginner-friendly **console-based To-Do list application** written in Python. It allows users to **add, view, and remove tasks** from a list — with persistent storage using a text file (`tasks.txt`).
 
 ---
